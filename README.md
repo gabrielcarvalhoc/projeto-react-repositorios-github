@@ -1,6 +1,6 @@
 # Buscador de Repositórios do GitHub :mag: :octopus: :cat:
 
-Seja bem vindo! Neste projeto, criei um buscador de repositórios do GitHub!
+Seja bem vindo! Neste projeto, desenvolvi em **React** um buscador de repositórios do GitHub!
 
 Para executar o programa, siga os seguintes passos:
 
@@ -12,10 +12,6 @@ Para executar o programa, siga os seguintes passos:
 ![image](https://user-images.githubusercontent.com/82124316/125711384-62073f4d-5e89-4347-a8b7-4fb5f6af09f8.png)
 
 ![image](https://user-images.githubusercontent.com/82124316/125711417-04f5382e-3a3f-4391-b88a-dc2bd07b9a85.png)
-
-Para a elaboração do projeto, utilizei:
-
-- **React**
 
 Fique à vontade para conferir o resultado neste repositório e para entrar em contato.
 
