@@ -9,6 +9,10 @@ Para executar o programa, siga os seguintes passos:
 3. A aplicação será iniciada e o site deve abrir automaticamente em seu navegador;
 4. No input, digite o nome do usuário no GitHub que deseja buscar e, ao clicar em Pesquisar, a aplicação mostrará a lista com todos os repositórios deste Usuário.
 
+![image](https://user-images.githubusercontent.com/82124316/125711384-62073f4d-5e89-4347-a8b7-4fb5f6af09f8.png)
+
+![image](https://user-images.githubusercontent.com/82124316/125711417-04f5382e-3a3f-4391-b88a-dc2bd07b9a85.png)
+
 Para a elaboração do projeto, utilizei:
 
 - **React**
